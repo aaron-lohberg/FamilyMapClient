@@ -1,0 +1,4 @@
+#Sun Mar 24 15:46:08 MDT 2019
+base.0=C\:\\Users\\aaron\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
